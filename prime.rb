@@ -1,4 +1,4 @@
-def prime?()
+def prime?(2)
   if prime?(|i| == / 2)
 end
 
