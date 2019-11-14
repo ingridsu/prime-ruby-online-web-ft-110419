@@ -3,5 +3,5 @@ def prime?(2)
 end
 
 def prime?(-1)
-  if 
+  if  ([i == /1])
 end
